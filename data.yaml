@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/FOLDER TUGAS MACHINE LEARNING (ML)/train/images
+val: /content/drive/MyDrive/FOLDER TUGAS MACHINE LEARNING (ML)/valid/images
+test: /content/drive/MyDrive/FOLDER TUGAS MACHINE LEARNING (ML)/test/images
+
+nc: 1
+names: ['loafers']
